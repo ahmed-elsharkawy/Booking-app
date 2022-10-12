@@ -1,0 +1,66 @@
+.recommended{
+    margin: 50px auto;
+}
+.recommendedContainer{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.recommendedContainer h3{
+    margin: 10px 0;
+}
+.recommendedItems{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.recommendedItem{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 250px;
+    cursor: pointer;
+}
+.recommendedItem img{
+    flex: 3;
+    width: 100%;
+}
+.recommendedItemContent{
+    flex: 2;
+}
+.recommendedItemContent .title,
+.recommendedItemContent .country{
+    font-size: 14px;
+    font-weight: 200;
+    color: gray;
+}
+.recommendedItemContent .price{
+    font-size: 15px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+.recommendedItemContent .rating{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+.recommendedItemContent .rating .mark{
+    background-color: var(--mainColor);
+    color: white;
+    padding: 3px;
+    font-size: smaller;
+    border-radius: 2px;
+}
+.recommendedItemContent .rating .grade{
+    font-size: 12px;
+    font-weight: 900;
+    color: gray;
+}
+.recommendedItemContent .rating .numReview{
+    font-weight: 200;
+    font-size: 14px;
+}

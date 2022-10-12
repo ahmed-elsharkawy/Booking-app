@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/340201210.jpg?k=ab9073469f20441e77aeec1f914e46403fbdb4b6cea682b4870a39445ced0be5&o=&hp=1",
+      "title": "Holiday Inn London - Regent's Park, an IHG Hotel",
+      "distance": "2 km from center",
+      "gift": "Limited-time Deal",
+      "facilities":"Standard Double or Twin Room",
+      "disc": "Beds: 1 double or 2 twins",
+      "cancleOption":"FREE cancellation • No prepayment needed",
+      "cancleOptionDisc":"You can cancel later, so lock in this great price today!",
+      "price": "$ 6500",
+      "mark": "7.9",
+      "grade": "Good",
+      "taxes": "include taxes"
+    },
+    {
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203411677.jpg?k=147cdadb9a76948eb4d54dc326a80fe8cc8a270596b70957c2aef2aa87bdfcb7&o=&hp=1",
+        "title": "Split Theatre ApartmentsOpens in new window",
+        "distance": "400 m from beach",
+        "gift": "Limited-time Deal",
+        "facilities":"Standard Double or Twin Room",
+        "disc": "Beds: 1 double or 2 twins",
+        "cancleOption":"FREE cancellation • No prepayment needed",
+        "cancleOptionDisc":"You can cancel later, so lock in this great price today!",
+        "price": "$ 2100",
+        "mark": "8.9",
+        "grade": "Very Goog",
+        "taxes": "Don't include taxes"
+      },
+      {
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/16534412.jpg?k=50a9d7f0e185a691a8cc18e2935898151e7d3d638879bc35f422917549e60b2b&o=&hp=1",
+        "title": "Split Allure ApartmentsOpens in new window",
+        "distance": "5 km from center",
+        "gift": "Limited-time Deal",
+        "facilities":"Standard Double or Twin Room",
+        "disc": "Beds: 1 double or 2 twins",
+        "cancleOption":"FREE cancellation • No prepayment needed",
+        "cancleOptionDisc":"You can cancel later, so lock in this great price today!",
+        "price": "$ 8400",
+        "mark": "9.7",
+        "grade": "Excellent",
+        "taxes": "include taxes"
+      },
+      {
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307784794.jpg?k=604a767cee57d154b879950142b15aa0ae51f8f90f8de72b4a30f845d68f0d78&o=&hp=1",
+        "title": "Perimar Luxury Apartments and Rooms Split CenterOpens in new window",
+        "distance": "8 km from center",
+        "gift": "Limited-time Deal",
+        "facilities":"Standard Double or Twin Room",
+        "disc": "Beds: 1 double or 2 twins",
+        "cancleOption":"FREE cancellation • No prepayment needed",
+        "cancleOptionDisc":"You can cancel later, so lock in this great price today!",
+        "price": "$ 4200",
+        "mark": "8.3",
+        "grade": "Good",
+        "taxes": "include taxes"
+      },
+      {
+        "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291721145.jpg?k=19b7158941a3eb11eda486779047efa902cc1e02423126dbc05de1b5f6cc9603&o=&hp=1",
+        "title": "Holiday Inn London - Regent's Park, an IHG Hotel",
+        "distance": "7 km from center",
+        "gift": "Limited-time Deal",
+        "facilities":"Standard Double or Twin Room",
+        "disc": "Beds: 1 double or 2 twins",
+        "cancleOption":"FREE cancellation • No prepayment needed",
+        "cancleOptionDisc":"You can cancel later, so lock in this great price today!",
+        "price": "$ 5900",
+        "mark": "9.1",
+        "grade": "Excellent",
+        "taxes": "Don't include taxes"
+      }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254067780.jpg?k=11794ca6e6eddbc7d2b294c64ad4c9bab7349fe478208a23477cb05d849b2fee&o=&hp=1",
+            "title": "Gunnison"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219269318.jpg?k=13463c293e3c7ea1ff0eb739316633019ef38ed48a94f86d6f4f9f000c42efeb&o=&hp=1",
+            "title": "Big Spring"
+                },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/254067766.jpg?k=e37234cd1e013b21d83688116cbedae13faef12b8c28d464f1803802759493a0&o=&hp=1",
+            "title": "Myrtle Beach"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/205221512.jpg?k=b9665d9aed11da68cf9d82eff6e1e001a67ddd56124c29a54fe68d9a8438192e&o=&hp=1",
+            "title": "Davenport"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/375394705.jpg?k=9db8ab0b307b682c8d2198837de7079b0c46cdb51f88530def7fb480a85b78e0&o=&hp=1",
+            "title": "Destin"
+        }
+    ]
+}

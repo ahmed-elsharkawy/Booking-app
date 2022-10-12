@@ -1,0 +1,161 @@
+.hotel{
+    margin: 20px 50px;
+}
+.hotelContainer{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    position: relative;
+}
+.hotelContainer h1{
+    font-weight: 800;
+    font-size: 25px;
+    margin: 20px 0;
+    color: #222;
+}
+.hotelContainer .location{
+    font-size: small;
+    font-weight: 600;
+    color: #555;
+}
+.hotelContainer .locPros{
+    font-size: medium;
+    font-weight: 600;
+    color: var(--lightMainColor);
+    margin: 10px 0;
+}
+.hotelContainer .bookPros{
+    font-size: medium;
+    font-weight: 600;
+    color: green;
+    margin: 10px 0;
+}
+.hotelContainer .imageList{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1;
+}
+.hotelContainer .imageList .oneImg{  
+    width: 33%;
+    height: 250px;
+    margin: 3px 0;
+    border-radius: 4px;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+}
+.hotelContainer .imageList .oneImg .plusImages{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    transform: translate(-50%);
+}
+.hotelContainer .imageList .oneImg img{  
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    vertical-align: top;
+}
+.hotelContainer .imageList .imgNum6:after{  
+    content: '\A';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: all 1s;
+}
+.hotelContainer .hotelDisc{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.hotelContainer .hotelDisc .hotelIntro{
+    flex: 5;
+    margin-right: 20px;
+}
+.hotelContainer .hotelDisc .hotelIntro h2{
+    margin-bottom: 20px;
+}
+.hotelContainer .hotelDisc .hotelIntro p{
+    font-weight: 500;
+}
+.hotelContainer .hotelDisc .offer{
+    flex: 2;
+    padding: 25px;
+    background-color: rgb(220, 239, 255);
+    border-radius: 3px;
+}
+.hotelContainer .hotelDisc .offer h4{
+    font-size: large;
+    font-weight: 700;
+    color: #555;
+}
+.hotelContainer .hotelDisc .offer p{
+    font-weight: 500;
+    font-size: 15px;
+    color: #555;
+}
+.hotelContainer .hotelDisc .offer .totalPrice{
+    font-weight: 800;
+    font-size: 25px;
+    color: #222;
+    margin: 20px 0;
+}
+.hotelContainer .hotelDisc .offer .totalPrice .numOfNight{
+    font-weight: 300;
+    font-size: 25px;
+    color: #222;
+    margin: 20px 0;
+}
+.hotelContainer .hotelDisc .offer button{
+    width: 100%;
+    background-color: var(--lightMainColor);
+    color: white;
+    border: none;
+    padding: 5px 8px;
+    border-radius: 4px;
+    font-weight: 400;
+    cursor: pointer;
+    padding: 10px;   
+}
+.hotelContainer .hotelDisc .offer button:hover{
+    background-color: var(--mainColor);
+}
+
+
+.hotelContainer .imagWindow{
+    background-color: white;
+    width: 100%;
+    position: absolute;
+    z-index: 555;
+    top: -100px;
+}
+.imagesWindowOverlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(86, 86, 90, 0.8);
+    z-index: 444;
+}
+.imagesWindowOverlay .close{
+    position: relative;
+}
+.imagesWindowOverlay i{
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.imagesWindowOverlay i .closeIcon{
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+}

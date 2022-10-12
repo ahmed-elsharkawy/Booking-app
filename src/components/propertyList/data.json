@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/293889746.jpg?k=b220a87bea222b564714273d05845a667776eaba12492ad16cb501960f91aa72&o=&hp=1",
+            "title": "Hotels",
+            "numAvailable": "900,573 hotels"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/381307830.jpg?k=4f33d82b9f6c17bf8357ead39f07b90f23ae696f54786726081a6f698426c6ea&o=&hp=1",
+            "title": "Apartments",
+            "numAvailable": "250,548 abartment"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390379028.jpg?k=ebf60b583771c3caf3c68af93e6a31f14f48b65572b2b3ba51c2ed530a7b8a91&o=&hp=1",
+            "title": "Resorts",
+            "numAvailable": "28,120 Resorts"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/390380773.jpg?k=aef1add77c4289bd476bde49e2ccb2822553428b0b0e8504b3aed9c01df2ae5e&o=&hp=1",
+            "title": "Villas",
+            "numAvailable": "510,018 Villas"
+        }
+    ]
+}

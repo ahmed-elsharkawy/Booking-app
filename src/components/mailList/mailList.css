@@ -1,0 +1,41 @@
+.mailList{
+    background-color: var(--mainColor);
+    color: white;
+    text-align: center;
+    margin: 30px auto;
+    padding: 50px 0;
+}
+.mailList h4{
+    font-size: 27px;
+    font-weight: 300;
+}
+.mailList p{
+    font-weight: 300;
+    color: #a9a9a9;
+}
+.mailList .mailField{
+    margin: 50px auto 10px;
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+.mailList .mailField input{
+    width: 70%;
+    height: 60px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 3px;
+}
+.mailList .mailField button{
+    width: 29%;
+    height: 60px;
+    padding: 0;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    background-color: var(--lightMainColor);
+    font-size: larger;
+    cursor: pointer;
+}

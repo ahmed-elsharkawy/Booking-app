@@ -1,0 +1,84 @@
+.search{
+    background-color: var(--seconderyColor);
+    padding: 20px 15px;
+    border-radius: 3px;
+    width: 250px;
+}
+h3{
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.field{
+    width: 100%;
+    overflow: hidden;
+    margin: 10px 0;
+}
+.field>span:first-of-type{
+    font-size: smaller;
+    font-weight: 200;
+}
+.field>p:first-of-type{
+    max-width: 100%;
+    font-weight: 200;
+    background-color: white;
+    padding: 10px;
+    border-radius: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.searchField>input{
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+}
+
+.checkinDateRange{
+    position: absolute;
+}
+.searchBarOptions{
+    position: absolute;
+    top: 0;
+    background-color: red;
+}
+
+.optionsField{
+    position: relative;
+    overflow: visible
+}
+.priceOptionField .minPrice,
+.priceOptionField .maxPrice{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.priceOptionField .minPrice span,
+.priceOptionField .maxPrice span{
+    width: 70%;
+    font-size: smaller;
+    font-weight: lighter;
+}
+.priceOptionField .minPrice input,
+.priceOptionField .maxPrice input{
+    width: 30%;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+}
+.search>button{
+    width: 100%;
+    padding: 15px;
+    background-color: var(--lightMainColor);
+    color: white;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}

@@ -1,0 +1,29 @@
+.footerContainer{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    color: var(--mainColor);
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.footerList{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.footerList ul{
+    list-style: none;
+}
+.footerList ul li{
+    cursor: pointer;
+    font-size: smaller;
+}
+.footer .copyRight{
+    width: 100%;
+    text-align: center;
+    font-size: smaller;
+    font-weight: 200;
+    color: gray;
+    margin-bottom: 10px;
+}

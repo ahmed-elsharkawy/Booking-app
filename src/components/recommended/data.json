@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87864691.jpg?k=0bfc86f1b3214ef310cfd31d6adc3d485ba56e44a1a49c7cdd04af5d0547fd58&o=&hp=1",
+            "title": "Appartement on",
+            "country": "Parise",
+            "price": "Starting from EGP 12,235",
+            "mark": "7.1",
+            "grade": "Excellent",
+            "numReviews":"56 reviews"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/87864719.jpg?k=ba5163e10bf9b9124f82ec5248b57738349bcf63a853f494f8655b61566b1762&o=&hp=1",
+            "title": "7Seasons Apartments Budapest",
+            "country": "London",
+            "price": "Starting from EGP 12,235",
+            "mark": "9.2",
+            "grade": "Excellent",
+            "numReviews":"56 reviews"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/203411677.jpg?k=147cdadb9a76948eb4d54dc326a80fe8cc8a270596b70957c2aef2aa87bdfcb7&o=&hp=1",
+            "title": "Villa Domina",
+            "country": "Australia",
+            "price": "Starting from EGP 12,235",
+            "mark": "7.9",
+            "grade": "Excellent",
+            "numReviews":"56 reviews"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/145743586.jpg?k=73051b591f8946c4e5a4f4ca3c5425d9cfc0091a39611ff0ba6122a1eeb71df3&o=&hp=1",
+            "title": "Sugar Loft Apartments",
+            "country": "Kopenhagen",
+            "price": "Starting from EGP 12,235",
+            "mark": "8.3",
+            "grade": "Excellent",
+            "numReviews":"56 reviews"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/landmark/max1024/240678.webp?k=0345d1f11ef2f7959ce60bd53c6954ad4e009fb81f0c7bf8a3251b5e6879011b&o=",
+            "title": "P&J Luxury Apartments",
+            "country": "Parise",
+            "price": "Starting from EGP 12,235",
+            "mark": "8.2",
+            "grade": "Excellent",
+            "numReviews":"56 reviews"
+        } 
+    ]
+}

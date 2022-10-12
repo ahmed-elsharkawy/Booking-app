@@ -1,0 +1,18 @@
+.searchList{
+    margin: 20px 50px;
+}
+.listContainer{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.searchBar{
+    flex: 1;
+}
+.searchResult{
+    flex: 3;
+}
